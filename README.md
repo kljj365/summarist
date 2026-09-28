@@ -2,7 +2,7 @@
 
 Book summaries you can read or listen to. Built for the Frontend Simplified Advanced Virtual Internship: the brief was to rebuild the Summarist app from a live reference design and a books API.
 
-**Live:** LIVE_URL
+**Live:** https://summarist-kljj365.vercel.app
 
 ## What it does
 
